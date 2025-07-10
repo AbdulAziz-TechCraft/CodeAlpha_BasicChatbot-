@@ -1,5 +1,5 @@
 #  💬 TASK 4: Basic Chatbot – CodeAlpha Internship Submission
-# 
+ 
 # ✅ Goal:
 # Build a simple rule-based chatbot using Python that responds to
 # user input with predefined replies.
