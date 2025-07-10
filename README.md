@@ -34,10 +34,9 @@ Build a simple **rule-based chatbot** using Python that interacts with users via
 1. Open your terminal or IDE (VS Code, PyCharm, etc.)
 2. Run the chatbot with:
 ```bash
-python chatbot.py
 
 
-## 📝 Sample Output:
+ 📝 Sample Output:
 
 
 🤖 ChatBot: Hello! Type something to talk to me. (Type 'bye' to exit)
@@ -51,12 +50,12 @@ ChatBot: I'm fine, thanks! How about you?
 You: bye
 ChatBot: Goodbye! 👋
 
-##🛠️ How It Works:
+🛠️ How It Works:
 Uses a while loop to keep the chatbot running
 
 Uses if-elif-else to match specific user inputs
 
 Exits the loop when user types "bye", "exit", or "quit"
 
-##👨‍💻 Author:
+👨‍💻 Author:
 Submitted for CodeAlpha Internship – Task 4: Basic Chatbot
